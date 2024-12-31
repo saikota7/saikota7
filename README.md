@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/saaaiiii27" target="blank"><img src="https://img.shields.io/twitter/follow/saaaiiii27?logo=twitter&style=for-the-badge" alt="saaaiiii27" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **react, Javascript**
 
