@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Cyber Security | Web Penetration Testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikota7&label=Profile%20views&color=0e75b6&style=flat" alt="saikota7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saaaiiii27" target="blank"><img src="https://img.shields.io/twitter/follow/saaaiiii27?logo=twitter&style=for-the-badge" alt="saaaiiii27" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+🔐 I’m currently learning Cyber Security & Penetration Testing
 
-- 💬 Ask me about **react, Javascript**
+💬 Ask me about Network Security, Ethical Hacking, Vulnerability Assessment
 
-- 📫 How to reach me **saikrishnakota01@gmail.com**
+📫 How to reach me saikrishnakota01@gmail.com
 
-- ⚡ Fun fact **Ctrl+C, Ctrl+V, Ctrl+coffee.**
+⚡ Fun fact I break systems to help secure them
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
